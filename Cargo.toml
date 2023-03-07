@@ -34,7 +34,7 @@ optional = true
 version = "1.0"
 
 [dependencies.flate2]
-version = ">=1.0.0, <=1.0.14"
+version = ">=1.0.0, <=1.0.26"
 optional = true
 default-features = false
 
