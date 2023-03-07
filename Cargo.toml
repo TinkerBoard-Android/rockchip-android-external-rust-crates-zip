@@ -42,7 +42,7 @@ default-features = false
 version = "1.0"
 
 [dependencies.time]
-version = "0.1"
+version = "0.3"
 optional = true
 [dev-dependencies.bencher]
 version = "0.1"
